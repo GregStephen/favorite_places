@@ -1,0 +1,45 @@
+{
+  "places": [
+    {
+      "cityName": "Atlanta",
+      "cityState": "GA",
+      "cityImage": "https://www.atlantaga.gov/Home/ShowImage?id=3272&t=636335665341170000",
+      "favoriteRestaurant": "Eight Sushi Lounge",
+      "favoriteBar": "Wrecking Bar Brewpub",
+      "favoriteHotel": "The St. Regis",
+      "favoriteTouristAttraction": "Georgia Aquarium"
+    },{
+      "cityName": "Chattanooga",
+      "cityState": "TN",
+      "cityImage": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1539870562/mccallieorg/kqqiwi9b7lfan3jpzfjo/ChattanoogaHeader.jpg",
+      "favoriteRestaurant": "Slick‘s Burgers",
+      "favoriteBar": "Flying Squirrel",
+      "favoriteHotel": "The Chattanoogan",
+      "favoriteTouristAttraction": "Ruby Falls"
+    },{
+      "cityName": "Pigeon Forge",
+      "cityState": "TN",
+      "cityImage": "https://www.cherokeelodgecondos.com/wp-content/uploads/2017/07/Aerial-Pigeon-Forge.jpg",
+      "favoriteRestaurant": "Paula Deen's Family Kitchen",
+      "favoriteBar": "Smoky Mountain Brewery",
+      "favoriteHotel": "Cabin",
+      "favoriteTouristAttraction": "Wax Museum"
+    },{
+      "cityName": "Las Vegas",
+      "cityState": "NV",
+      "cityImage": "https://media.timeout.com/images/104097123/image.jpg",
+      "favoriteRestaurant": "Eiffel Tower",
+      "favoriteBar": "Peppermill Fireside Lounge",
+      "favoriteHotel": "The Venetian",
+      "favoriteTouristAttraction": "CASINOS"
+    },{
+      "cityName": "Lake Buena Vista",
+      "cityState": "FL",
+      "cityImage": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/wdpro-assets/home/hpr/walt-disney-world-six-parks-uk-video-loop.jpg",
+      "favoriteRestaurant": "Crystal Palace",
+      "favoriteBar": "Epcot",
+      "favoriteHotel": "The Polynesian Village Resort",
+      "favoriteTouristAttraction": "Disney World"
+    }
+  ]
+}
