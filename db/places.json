@@ -40,6 +40,30 @@
       "favoriteBar": "Epcot",
       "favoriteHotel": "The Polynesian Village Resort",
       "favoriteTouristAttraction": "Disney World"
+    },{
+      "cityName": "Nashville",
+      "cityState": "TN",
+      "cityImage": "https://www.nelsonmullins.com/storage/5c98df778671ac435f009ab41f26d253.jpeg",
+      "favoriteRestaurant": "Murff’s Burgers",
+      "favoriteBar": "Mickey’s",
+      "favoriteHotel": "The Omni",
+      "favoriteTouristAttraction": "The Frist"
+    },{
+      "cityName": "Tampa",
+      "cityState": "FL",
+      "cityImage": "http://dcewboipbvgi2.cloudfront.net/cdn/farfuture/Dp9LJ2AvFFBtzL844zhhLtn8RFpyeM901YO7FBdCYTY/mtime:1496937740/sites/default/files/styles/article_hero_image/public/Tampa-FL-Matthew-Paulson.jpg?itok=7bt-Xt1i",
+      "favoriteRestaurant": "Twistee Treat",
+      "favoriteBar": "Ybor City",
+      "favoriteHotel": "The Barrymore",
+      "favoriteTouristAttraction": "Busch Gardens"
+    },{
+      "cityName": "Memphis",
+      "cityState": "TN",
+      "cityImage": "https://www.memphistravel.com/sites/default/master/files/Generic_Memphis_Skyline_Bridge.jpg",
+      "favoriteRestaurant": "Commissary BBQ",
+      "favoriteBar": "Newby’s",
+      "favoriteHotel": "The Peabody",
+      "favoriteTouristAttraction": "Memphis in May"
     }
   ]
 }
