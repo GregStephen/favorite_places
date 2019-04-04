@@ -1,3 +1,24 @@
 body {
   background-color: aliceblue;
+  text-align: center;
 }
+
+#header {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.card {
+  display: inline-block;
+  text-align: center;
+}
+
+.cityImage {
+  width: 100%;
+  margin-bottom: .75em;
+}
+
+.favoriteTitle {
+  text-decoration: underline;
+}
+
